@@ -1,0 +1,46 @@
+body {
+	background: pink;
+}
+
+
+.container {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border: solid;
+	border-color: black;
+}
+
+.menu {
+	text-align: center;
+	border: solid;
+	color: black;
+}
+
+li {
+	flex: left;
+	text-decoration: none;
+	display: inline-block;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+p {
+	text-align: center;
+	margin: 0 auto;
+}
+
+.second img {
+	border: solid;
+	color: #fff;
+}
